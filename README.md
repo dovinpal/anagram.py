@@ -6,7 +6,6 @@
 #!/usr/bin/python
 import fileinput
 
-#Evaluating each line
 for line in fileinput.input():
 	
 	#Evaluating each word
